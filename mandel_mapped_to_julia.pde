@@ -4,7 +4,8 @@
 // The only differece between Julia and Mandelbroth is that Julia set is confined by the complex number C 
 // in the function z = z^2 + C as it is always constant throughout the iteration of the complex plane
 // the Julia set is sometimes refferred to as Mandelbrot's dust, since locking down to a specific complex coordinate
-// of the complex plane will determine the complex number C, therfore producing a slince in time of the whole Julia set
+// of the complex plane will determine the complex number C, therfore producing a slice in time of Julia set.
+// It could also be looked at as an extra dimension of Mandelbrot set
 
 int windowWidth = 0;
 int windowHeight = 0;
