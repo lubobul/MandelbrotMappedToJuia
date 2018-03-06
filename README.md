@@ -1,4 +1,4 @@
-# Mandelbrot mapped to Juia - Processing
+# Mandelbrot mapped to Julia - Processing
 
 The only differece between Julia and Mandelbroth sets is that Julia set is confined by the complex number C 
 in the function z = z^2 + C as it is always constant throughout the iteration of the complex plane
