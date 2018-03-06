@@ -7,4 +7,4 @@ of the complex plane will determine the complex number C, therefore producing a 
 
 To run simply download Processing - https://processing.org/download/ and run the .pde file
 
-I've written this with the help of https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw
+I've written this with the help of https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw (The Coding Train). Go check out his channel, this guy is awesome.
